@@ -1,0 +1,13 @@
+--> Definition : A ValueError occurs in Python when a function receives the right data type but the wrong value, which cannot be processed.
+
+    --> Happens when the value is not suitable for the operation.
+    --> Data type is correct, but the content of the value is invalid.
+    --> Common in type conversions like int(), float() when the value cannot be converted.
+
+--> Example : 
+
+    num = int("hello")  # trying to convert string to int
+
+--> Output : 
+
+    ValueError: invalid literal for int() with base 10: 'hello'

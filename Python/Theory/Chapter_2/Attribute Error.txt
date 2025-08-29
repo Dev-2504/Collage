@@ -1,0 +1,18 @@
+--> Definition : An AttributeError occurs in Python when you try to access or call an attribute (like a variable or method) that does not exist for that object.
+
+    --> It happens when you use dot notation (object.attribute) and the attribute is not defined.
+    --> Very common mistake when calling methods or accessing properties that are misspelled or missing.
+    --> Useful for debugging when working with classes, objects, and external libraries.
+
+--> Example : 
+
+    class Student:
+        def __init__(self, name):
+            self.name = name
+
+    s1 = Student("Dev")
+    print(s1.age)  # age attribute not defined → AttributeError
+
+--> Output : 
+
+    AttributeError: 'Student' object has no attribute 'age'

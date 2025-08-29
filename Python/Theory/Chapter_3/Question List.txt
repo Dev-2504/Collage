@@ -1,0 +1,72 @@
+2019
+
+Memorization ---
+pylab.title, pylab.xlabel, pylab.ylabel ---
+
+Fibonacci sequence ---
+divide and conquer ---
+
+plotting mortgages ---
+0/1 knapsack problem ---
+
+2022
+
+plotting
+various method used to plot graph
+
+subplot()
+dynamic programming and divide and conquer ---
+
+mortgages ---
+0/1 knapsack Algorithm ---
+
+
+2023
+
+show()
+legend()
+
+divide and conquer ---
+Fibonacci sequence ---
+
+0/1 knapsack algorithm ---
+plotting morgages ---
+
+2024
+
+pylab.title, pylab.xlabel, pylab.ylabel ---
+Memorization ---
+
+Fibonacci sequence ---
+divide and conquer ---
+
+plotting mortgages ---
+0/1 knapsack algorithm ---
+
+
+
+
+1. Memorization --> 2Times -- 2marks
+
+2. pylab.title, pylab.xlabel, pylab.ylabel --> 2Times -- 2marks
+
+3. Fibonacci sequence --> 3Times -- 3marks
+
+4. divide and conquer --> 4Times -- 3marks
+
+5. plotting mortgages --> 4Times -- 5marks
+
+6. 0/1 knapsack algorithm --> 4Times -- 5marks
+
+-------- Asked only one time --------
+
+7. show() -- 2marks
+
+8. legend() -- 2marks
+
+9. plotting -- 2marks
+
+10. various method used to plot graph -- 2marks
+
+11. subplot() -- 3marks
+

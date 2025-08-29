@@ -1,0 +1,47 @@
+Definiton : A class is a design or template used to create objects.
+        --> It is like a plan that tells what data (variables) and what work (functions) the object will do.
+        --> A class helps organize code and makes it reusable.
+
+Syntax :
+
+class ClassName:
+    # constructor (optional)
+    def __init__(self, parameters):
+        # instance variables
+        self.variable = value
+
+    # method
+    def method_name(self, parameters):
+        # code block
+        pass
+
+--> class ClassName: — defines a new class
+--> __init__ — constructor method that runs when object is created
+--> self — refers to the current instance of the class
+
+
+Example :
+
+class Student:
+    # constructor
+    def __init__(self, name, roll_no):
+        self.name = name
+        self.roll_no = roll_no
+
+    # method
+    def display(self):
+        print("Name:", self.name)
+        print("Roll No:", self.roll_no)
+
+# creating object of class
+s1 = Student("Dev", 101)
+
+# calling method
+s1.display()
+
+
+Output :
+
+Name: Dev
+Roll No: 101
+

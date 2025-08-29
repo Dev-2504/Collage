@@ -1,0 +1,25 @@
+--> Definition : The show() method in the Matplotlib library is used to display the figure or plot window on the screen.
+             --> When you create plots using Matplotlib, they are created in the background. The show() function opens a window to display the plot visually.
+
+
+--> Syntax : 
+
+    import matplotlib.pyplot as plt
+    plt.show()
+
+
+--> Example : 
+
+    import matplotlib.pyplot as plt
+
+    # Plotting data
+    x = [1, 2, 3, 4]
+    y = [10, 20, 25, 30]
+
+    plt.plot(x, y)
+    plt.title("Simple Line Plot")
+    plt.xlabel("X-axis")
+    plt.ylabel("Y-axis")
+
+    # Display the plot window
+    plt.show()

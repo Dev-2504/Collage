@@ -1,0 +1,80 @@
+2022
+
+what is an entry field
+what is a dialog
+
+widget attribute
+type of layout
+
+nested frames
+two-way communication between server and client
+
+
+2023
+
+write code for download and image from internet
+explain button with example
+
+sending a simple mail
+entry field
+
+what is dialog explain with example
+explain file server and file client
+
+
+2024
+
+recv and recvfrom socket method
+send and sendto socket method
+
+button, label and entry field
+widget attribute
+
+download a web page from internet
+download and image from internet
+
+
+
+
+2022
+
+Updating rows in table
+mysql database
+
+Retrieving all rows from a table
+inserting and deleting rows into a table
+
+creating database and table through python
+write down steps to verifing the mysql db interface and installiation step in detail
+
+2023
+
+inserting record in table
+deleting record in table
+
+write down steps to verifing the mysql db interface and installiation step in detail
+retrieving all rows from a table
+
+Write s python code to creating Python database and student table like grno,name,address,std and birth date through python
+Write a python code to read grno form the user and update that record otherwise give message “grno is not available”
+
+2024
+
+
+
+
+
+
+
+    
+creating database and table through python
+inserting and deleting rows into a table
+
+
+
+
+
+
+
+
+

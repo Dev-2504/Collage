@@ -1,0 +1,22 @@
+Tuples
+
+2019 -- 2 Marks, 2023 -- 2 Marks, 2024 -- 3 Marks
+
+
+------------------------------------------
+
+---> Definition :- A tuple in Python is a collection of items that is ordered and unchangeable (immutable).
+     --> It is used to store multiple values in a single variable, just like a list, but you cannot change the items after the tuple is created.
+     --> Tuples are written using round brackets: ( )
+     --> Items are indexed, starting from 0
+     --> Tuples can contain different data types
+     --> Tuples are faster than lists and are used when data should not change
+
+
+--> Example :-
+    
+    my_tuple = ("apple", "banana", "cherry")
+    print(my_tuple)  # Output: banana
+
+
+    

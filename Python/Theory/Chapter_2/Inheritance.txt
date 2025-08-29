@@ -1,0 +1,143 @@
+--> Definition : Inheritance is a feature in Python where a child class can use the properties (variables) and methods (functions) of a parent class.
+         --> It allows code reusability and helps build relationships between classes.
+
+--> Syntax : 
+
+    class Parent:
+        # parent class code
+
+    class Child(Parent):
+        # child class code (inherits from Parent)
+
+
+--> Types of Inheritance in Python:
+
+    1. Single Inheritance
+
+    2. Multiple Inheritance
+
+    3. Multilevel Inheritance
+
+    4. Hierarchical Inheritance
+
+    5. Hybrid Inheritance
+
+
+
+--> 1. Single Inheritance
+    One child class inherits from one parent class.
+
+    Example : 
+
+        class Animal:
+            def speak(self):
+                print("Animal speaks")
+
+        class Dog(Animal):
+            def bark(self):
+                print("Dog barks")
+
+        d = Dog()
+        d.speak()
+        d.bark()
+
+
+--> 2. Multiple Inheritance
+    One child class inherits from multiple parent classes.
+
+    Example :
+
+        class Father:
+            def bike(self):
+                print("Father's Bike")
+
+        class Mother:
+            def car(self):
+                print("Mother's Car")
+
+        class Child(Father, Mother):
+            def own(self):
+                print("Child has both")
+
+        c = Child()
+        c.bike()
+        c.car()
+        c.own()
+
+
+--> 3. Multilevel Inheritance
+    One class inherits from a child class which itself is a child of another class.
+
+    Example : 
+
+        class Grandfather:
+            def house(self):
+                print("Grandfather's House")
+
+        class Father(Grandfather):
+            def car(self):
+                print("Father's Car")
+
+        class Son(Father):
+            def bike(self):
+                print("Son's Bike")
+
+        s = Son()
+        s.house()
+        s.car()
+        s.bike()
+
+
+--> 4. Hierarchical Inheritance
+    Multiple child classes inherit from the same parent class.
+
+    Example : 
+
+        class Parent:
+            def property(self):
+                print("Parent's Property")
+
+        class Child1(Parent):
+            def child1_feature(self):
+                print("Child1 Feature")
+
+        class Child2(Parent):
+            def child2_feature(self):
+                print("Child2 Feature")
+
+        c1 = Child1()
+        c2 = Child2()
+
+        c1.property()
+        c1.child1_feature()
+
+        c2.property()
+        c2.child2_feature()
+
+
+--> 5. Hybrid Inheritance
+    A combination of two or more types of inheritance.
+
+    Example : 
+
+        class A:
+            def showA(self):
+                print("Class A")
+
+        class B(A):
+            def showB(self):
+                print("Class B")
+
+        class C:
+            def showC(self):
+                print("Class C")
+
+        class D(B, C):  # Hybrid (Multilevel + Multiple)
+            def showD(self):
+                print("Class D")
+
+        d = D()
+        d.showA()
+        d.showB()
+        d.showC()
+        d.showD()

@@ -1,0 +1,132 @@
+2019
+
+1. ___________ exception catches all exceptions in Python.
+--> Exception
+
+2.. ___________ statements forces exception to occur in Python.
+--> raise
+
+3. ELSE keyword is used in Exception Handling in Python (True / False)
+--> True
+
+4. ADT stands for ___________.
+--> Abstract Data Type
+
+
+2022
+
+1. What is Exception ?
+--> An exception is an error that occurs during the execution of a program.
+
+2. What is Assertions ?
+--> 
+
+3. Partition and exchange sort is ___________.
+--> Quick Short
+
+4. Parent class is the class being inherited from also called ?
+--> Base Class
+
+
+2023
+
+1. The python ___________ statement force a specified exception to occur
+--> raise
+
+2. ELSE keyword is used in exception Handling in python(True / False)
+--> True
+
+3. ___________ exception catch all exception in python
+--> Exception
+
+4. partition and exchange sort is ___________.
+--> Quick Sort
+
+
+2024
+
+1. ADT stands for ___________.
+--> Abstract Data Type
+
+2. ___________ catches all exceptions.
+--> Exception
+
+3. ___________ statement forces exception to occur.
+--> raise
+
+4. The ___________ block executes code regardless of whether an exception occurs of not.
+--> finally
+
+
+
+------------------ Extra ------------------
+
+
+1. What is an exception in Python?
+--> An error that occurs during program execution.
+
+2. Which keyword is used to handle exceptions?
+--> try
+
+3. Which keyword is used to catch exceptions?
+--> except
+
+4. Which keyword is used to raise an exception?
+--> raise
+
+5. Name the exception that occurs when dividing by zero.
+--> ZeroDivisionError
+
+6. What does the finally block do?
+--> Executes code whether an exception occurs or not.
+
+7. Can multiple except blocks be used with one try?
+--> Yes.
+
+8. What is the keyword for assertions in Python?
+--> assert
+
+9. What is ADT?
+--> Abstract Data Type – logical description of a data structure.
+
+10. Which keyword is used to define a class in Python?
+--> class
+
+11. What is inheritance?
+--> A mechanism where one class inherits properties of another.
+
+12. What is the base class also called?
+--> Parent class or Superclass.
+
+13. What is the child class also called?
+--> Subclass or Derived class.
+
+14. Which symbol is used for inheritance in Python?
+--> Parentheses () in class definition.
+
+15. What is encapsulation?
+--> Wrapping of data and methods into a single unit (class).
+
+16. Which symbol is used to make a variable private in Python?
+--> Double underscore __
+
+17. What is data hiding?
+--> Restricting access to internal object details.
+
+18. Name one searching algorithm.
+--> Linear Search or Binary Search.
+
+19. Name one sorting algorithm.
+--> Bubble Sort or Quick Sort.
+
+20. Which search algorithm works only on sorted lists?
+--> Binary Search
+
+21. What is a hashtable?
+--> A data structure that maps keys to values using a hash function.
+
+22. Which Python data type works like a hashtable?
+--> Dictionary
+
+23. Can keys be duplicated in a Python dictionary?
+--> No.

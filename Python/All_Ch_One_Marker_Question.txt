@@ -1,0 +1,820 @@
+----------------- Chapter : 1 -----------------
+
+2019
+
+1. Python commands are evaluated / executed in ___________.
+--> Interpreter
+
+2. The __________ symbol is a shell prompt in Python.
+--> >>>
+
+3. The ___________ symbol is to set comments in Python.
+--> #
+
+4. IDLE stands for __________.
+--> Integrated Development and Learning Environment.
+
+
+2022
+
+1. What is Tuple ?
+--> A tuple in Python is a collection of items that is ordered and unchangeable (immutable).
+
+2. What is Python ?
+-->Python is a popular, high-level programming language known for its simple syntax and readability. It supports multiple programming styles like object-oriented, procedural, and functional programming. Python is widely used in web development, data science, machine learning, automation, and more.
+
+3. How many keywords are there in python 3.7 ?
+--> 33 Keywords
+
+4. Which character is used in python to make a single line comment ?
+--> #
+
+
+2023
+
+1. Who is the developer of Python ?
+--> Guido van Rossum
+
+2. Which special character used for new line
+--> \n
+
+3. Python command are evaluated / executed in __________.
+--> Interpreter
+
+4. The __________ symbol is to set single line comment in python.
+--> #
+
+
+2024
+
+1. IDLE stands for __________.
+--> Integrated Development and Learning Environment.
+
+2. __________ is/are container(s) for storing basic data value(s)
+--> Variable(s)
+
+3. __________ is the creator/inventor of the python programing language.
+--> Guido van Rossum
+
+4. __________ default extension of python file
+--> .py
+
+
+------------------ Extra ------------------ 
+
+
+1. What is Python?
+--> Python is a high-level, interpreted programming language.
+
+2. Who developed Python and in which year?
+--> Guido van Rossum in 1991.
+
+3. What is the extension of a Python file?
+--> .py
+
+4. Is Python interpreted or compiled?
+--> Interpreted.
+
+5. Name two keywords in Python.
+--> if, else
+
+6. What symbol is used for comments in Python?
+--> #
+
+7. What is the use of if statement?
+--> To check a condition and execute code accordingly.
+
+8. Write the syntax of an if-else statement.
+--> 
+
+    if condition:
+        statement
+    else:
+        statement
+
+9. Which keyword is used for multiple conditions in Python?
+--> elif
+
+10. What is the output of: print(5 > 10)?
+--> False
+
+11. Which function is used to take input from the user?
+--> input()
+
+12. Which symbol is used for string concatenation?
+--> +
+
+13. How to find the length of a string in Python?
+--> Using len() function.
+
+14. What is indexing in strings?
+--> Accessing characters using position numbers (starting from 0).
+
+15. Name two types of loops in Python.
+--> for, while
+
+16. What is the purpose of break statement?
+--> To exit a loop early.
+
+17. What is the use of range() function?
+--> To generate a sequence of numbers.
+
+18. Write the syntax of a for loop.
+--> for i in range(5):
+        print(i)
+
+19. Q: How do you define a function in Python?
+--> Using the def keyword.
+
+20. What keyword is used to return a value from a function?
+--> return
+
+21. What is recursion?
+--> A function calling itself.
+
+22. What is a local variable?
+--> A variable declared inside a function.
+
+23. What is a global variable?
+--> A variable declared outside all functions.
+
+24. What is a module in Python?
+--> A file containing Python code (functions, classes, etc.)
+
+25. Which keyword is used to import a module?
+--> import
+
+26. What is the use of open() function?
+--> To open a file in Python.
+
+27. What is the difference between list and tuple?
+--> Lists are mutable; tuples are immutable.
+
+28. Are lists mutable in Python?
+--> Yes.
+
+29. How do you define a list?
+--> my_list = [1, 2, 3]
+
+30. How do you define a tuple?
+--> my_tuple = (1, 2, 3)
+
+31. Can functions be assigned to variables in Python?
+--> Yes.
+
+32. What are string methods? Give one example.
+--> Built-in functions for strings. Example: upper()
+
+33. Is string mutable or immutable in Python?
+--> Immutable.
+
+34. What is a dictionary in Python?
+--> A collection of key-value pairs.
+
+35. How do you define a dictionary?
+--> my_dict = {'name': 'John', 'age': 25}
+
+36. What function is used to get keys from a dictionary?
+--> keys()
+
+37. Can dictionary keys be duplicated?
+--> No.
+
+
+
+
+
+
+
+----------------- Chapter : 2 -----------------
+
+2019
+
+1. ___________ exception catches all exceptions in Python.
+--> Base
+
+2.. ___________ statements forces exception to occur in Python.
+--> raise
+
+3. ELSE keyword is used in Exception Handling in Python (True / False)
+--> True
+
+4. ADT stands for ___________.
+--> Abstract Data Type
+
+
+2022
+
+1. What is Exception ?
+--> An exception is an error that occurs during the execution of a program.
+
+2. What is Assertions ?
+--> An assertion is a way to test if a condition in your program is True.
+
+3. Partition and exchange sort is ___________.
+--> Quick Short
+
+4. Parent class is the class being inherited from also called ?
+--> Base Class
+
+
+
+
+
+2023
+
+1. The python ___________ statement force a specified exception to occur
+--> raise
+
+2. ELSE keyword is used in exception Handling in python(True / False)
+--> True
+
+3. ___________ exception catch all exception in python
+--> Exception
+
+4. partition and exchange sort is ___________.
+--> Quick Sort
+
+
+2024
+
+1. ADT stands for ___________.
+--> Abstract Data Type
+
+2. ___________ catches all exceptions.
+--> Exception
+
+3. ___________ statement forces exception to occur.
+--> raise
+
+4. The ___________ block executes code regardless of whether an exception occurs of not.
+--> finally
+
+
+
+------------------ Extra ------------------
+
+
+1. What is an exception in Python?
+--> An error that occurs during program execution.
+
+2. Which keyword is used to handle exceptions?
+--> try
+
+3. Which keyword is used to catch exceptions?
+--> except
+
+4. Which keyword is used to raise an exception?
+--> raise
+
+5. Name the exception that occurs when dividing by zero.
+--> ZeroDivisionError
+
+6. What does the finally block do?
+--> Executes code whether an exception occurs or not.
+
+7. Can multiple except blocks be used with one try?
+--> Yes.
+
+8. What is the keyword for assertions in Python?
+--> assert
+
+9. What is ADT?
+--> Abstract Data Type – logical description of a data structure.
+
+10. Which keyword is used to define a class in Python?
+--> class
+
+11. What is inheritance?
+--> A mechanism where one class inherits properties of another.
+
+12. What is the base class also called?
+--> Parent class or Superclass.
+
+13. What is the child class also called?
+--> Subclass or Derived class.
+
+14. Which symbol is used for inheritance in Python?
+--> Parentheses () in class definition.
+
+15. What is encapsulation?
+--> Wrapping of data and methods into a single unit (class).
+
+16. Which symbol is used to make a variable private in Python?
+--> Double underscore __
+
+17. What is data hiding?
+--> Restricting access to internal object details.
+
+18. Name one searching algorithm.
+--> Linear Search or Binary Search.
+
+19. Name one sorting algorithm.
+--> Bubble Sort or Quick Sort.
+
+20. Which search algorithm works only on sorted lists?
+--> Binary Search
+
+21. What is a hashtable?
+--> A data structure that maps keys to values using a hash function.
+
+22. Which Python data type works like a hashtable?
+--> Dictionary
+
+23. Can keys be duplicated in a Python dictionary?
+--> No. 
+
+
+
+
+
+
+
+----------------- Chapter : 3 -----------------
+
+2019
+
+1. PyLab provides many of the facilities of ___________
+--> MATLAB
+
+2. ___________ method displays the graphical window on the computer screen.
+--> show()
+
+3. When stores PyLab Figure, Default extension ___________
+--> .png
+
+4. ___________ is a Python moedule that provides tools for scientific computing.
+--> SciPy
+
+
+2022
+
+1. What is the default extension of PyLab Figure ?
+--> .png
+
+2. PyLab provides many of the facilities of ___________.
+--> MATLAB
+
+3. Which module of matplotlib library is required for plotting of graph ?
+--> pyplot
+
+4. ___________ function is used to display figure / chart.
+--> show()
+
+
+2023
+
+1. Knapsack problem is also known as ___________ problem .
+--> Optimization
+
+2. ___________ method display the graphical window on the computer screen
+--> show()
+
+3. When stores PyLab Figure, Default extension ___________
+--> .png
+
+4. Which function is used to save plot graph to file ?
+--> savefig()
+
+
+2024
+
+1. The ___________ () function is used to create a new figure in PyLab.
+--> figure()
+
+2. The ___________ () function is used to display a plot on the screen in PyLab.
+--> show()
+
+3. The ___________ () function is used to save a plot as a PNG file in PyLab.
+--> savefig()
+
+4. An example of a sorting algorithm that uses the divide-and-conquer approach is ___________ sort.
+--> Quick Short
+
+
+
+
+------------------ Extra ------------------
+
+
+
+1. What is PyLab?
+--> PyLab is a module in matplotlib used for plotting and numerical operations.
+
+2. Which function is used to draw a line graph in PyLab?
+--> plot()
+
+3. Which function is used to show the graph?
+--> show()
+
+4. Which function is used to set the title of a graph?
+--> title("...")
+
+5. Which function is used to label the X-axis?
+--> xlabel("...")
+
+6. Which function is used to label the Y-axis?
+--> ylabel("...")
+
+7. Which function is used to draw a bar graph?
+--> bar()
+
+8. What is the use of legend() in PyLab?
+--> It displays labels for different data series in a graph.
+
+9. What is the Fibonacci series?
+--> A series where each number is the sum of the two preceding ones.
+
+10. Write the first five terms of the Fibonacci sequence.
+--> 0, 1, 1, 2, 3
+
+11. What is dynamic programming?
+--> A method for solving complex problems by breaking them down into simpler subproblems and storing results.
+
+12. What is the 0/1 Knapsack problem?
+--> A problem in which you choose items with given weights and values to maximize value within a weight limit.
+
+13. Which algorithm technique does Knapsack problem use?
+--> Dynamic Programming
+
+14. What is Divide and Conquer?
+--> A technique where a problem is divided into smaller subproblems, solved individually, and combined.
+
+15. Name a common algorithm that uses Divide and Conquer.
+--> Merge Sort
+
+16. Which PyLab function is used to save a plot as an image?
+--> savefig("filename.png")
+
+17. What is the use of grid(True) in PyLab?
+--> It displays a grid on the graph.
+
+18. Which PyLab function is used to plot multiple data series?
+--> Use multiple plot() calls before show()
+
+19. What does xlim() do in PyLab?
+--> Sets the limit of the X-axis.
+
+20. What does ylim() do in PyLab?
+--> Sets the limit of the Y-axis.
+
+21. What is mortgage plotting used for?
+--> To visualize payments over time with interest rates.
+
+22. What is the difference between line graph and bar graph?
+--> Line graph shows trends; bar graph compares quantities.
+
+23. What is recursion?
+--> A function calling itself to solve smaller subproblems.
+
+24. Why is dynamic programming better than recursion in some cases?
+--> Because it stores results and avoids repeated work.
+
+25. What is overlapping subproblem property?
+--> Same subproblems are solved multiple times in recursion (avoided in DP).
+
+26. What is optimal substructure property?
+--> An optimal solution can be formed from optimal solutions of subproblems.
+
+27. Which function is used to draw histograms in PyLab?
+--> hist()
+
+28. What is the output of plot([1,2,3], [4,5,6])?
+--> A line graph with points (1,4), (2,5), (3,6)
+
+29. Which Python library includes PyLab?
+--> matplotlib
+
+30. What is the default color of a plot line in PyLab?
+--> Blue
+
+
+
+
+
+
+
+----------------- Chapter : 4 -----------------
+
+// Old Syllabus
+2019
+
+1. In Python, regular expressions are supported by the ___________ module.
+--> re
+
+2. A ___________ is a sequence of characters that forms a search pattern.
+--> regular expression
+
+3. JSON stands for ___________
+--> Javascript Object Notation.
+
+4. If there is no match, ___________ will be returned, instead of the Match Object.
+--> None
+
+//
+
+
+2022
+
+1. What is GUI ?
+--> .png
+
+2. What is mainloop() ?
+--> MATLAB
+
+3. What is TCL ?
+--> pyplot
+
+4. What is IP Address ?
+--> show()
+
+
+2023
+
+1. URL stand for ___________.
+--> Uniform Resource Locator
+
+2. UDP stand for ___________.
+--> User Datagram Protocol
+
+3. TCL stand for ___________.
+--> Tool Command Language
+
+4. TCP/IP stand for ___________.    
+--> Transimission Control Protocol / Internet Protocol.
+
+
+2024
+
+1. The ___________ module is commonly used for socket programing to handle network connections.
+--> socket
+
+2. The ___________ method is used to associate the socket with a specific network interface and port number.
+--> bind()
+
+3. The ___________ protocol is used to send email over the internet.
+--> SMTP
+
+4. The "socket.gethostname()" function in Python returns the ___________ of the machine
+--> socket.gethostname()
+
+
+
+
+------------------ Extra ------------------
+
+
+
+1. What is a socket in Python?
+--> A socket is an endpoint for sending or receiving data across a computer network.
+
+2. Which module in Python is used for network programming?
+--> socket module
+
+3. What is a protocol?
+--> A protocol is a set of rules for data communication over a network.
+
+4. Which function is used to get the IP address of a hostname?
+--> socket.gethostbyname()
+
+5. What does URL stand for?
+--> Uniform Resource Locator
+
+6. Which Python module is used to read the source code of a web page?
+--> urllib module
+
+7. What is the full form of TCP?
+--> Transmission Control Protocol
+
+8. Which protocol is connectionless – TCP or UDP?
+--> UDP
+
+9. What is the purpose of a client in network programming?
+--> To request services from the server.
+
+10. What is a GUI?
+--> Graphical User Interface
+
+11. Which module is commonly used in Python for creating GUI?
+--> tkinter
+
+12. What is event-driven programming?
+--> A programming paradigm where the flow is controlled by user actions/events.
+
+13. Name any two GUI widgets in tkinter.
+--> Button, Label
+
+14. Which widget is used for user text input in tkinter?
+--> Entry
+
+15. Which function is used to run the tkinter GUI loop?
+--> mainloop()
+
+16. What is the use of pack() in tkinter?
+--> It is used to place widgets in the window.
+
+17. Which attribute is used to change the background color of a button in tkinter?
+--> bg or background
+
+18. What is a frame in GUI?
+--> A container widget used to hold other widgets.
+
+19. Which widget helps create a tree-like structure in tkinter?
+--> Treeview (from ttk module)
+
+20. What is the function of a File Server?
+--> To provide access to files over a network.
+
+21. Which Python module is used to send email?
+--> smtplib
+
+22. What does GUI stand for?
+--> Graphical User Interface
+
+23. What is the default port number for HTTP?
+--> 80
+
+24. What does the bind() function do in socket programming?
+--> It binds the socket to an address and port.
+
+25. What does listen() function do in socket programming?
+--> It enables a server to accept connections.
+
+26. Which method is used to connect a client to a server in Python socket?
+--> connect()
+
+27. What does accept() do in server socket?
+--> It accepts a connection from a client.
+
+28. Name one layout manager used in tkinter.
+--> pack
+
+29. Which function is used to close a socket connection?
+--> close()
+
+30. What is the default port number for SMTP?
+--> 25
+
+31. What is the role of the Button widget in tkinter?
+--> It creates a clickable button.
+
+32. How do you change the font size of a label in tkinter?
+--> Using the font attribute.
+
+33. Which tkinter widget is used to create dialog boxes?
+--> messagebox
+
+34. What is the use of get() method in Entry widget?
+--> It gets the current text entered in the Entry box.
+
+35. Which layout manager allows precise widget placement in tkinter?
+--> place
+
+
+
+
+
+
+----------------- Chapter : 5 -----------------
+
+2022
+
+1. What does SQL stand for ?
+--> Structured Query Language
+
+2. ___________ method executes a database query from within python.
+--> execute()
+
+3. By default the order by clause sorts the result set in the ___________ order.
+--> ascending
+
+4. Which package import before writing database connectivity python code ?
+--> sqlite3
+
+
+2023
+
+1. SQL stand for ___________.
+--> Structured Query Language
+
+2. Which package used to connect Mysql database in python code ?
+--> mysql.connector
+
+3. List out connection() function parameters.
+--> host, user, password, database
+
+4. Which method of cursor class is used to fetch only one row from the table ?    
+--> fetchone()
+
+
+2024
+
+1. The method ___________ () is used to establish a connection to a database.
+--> connect()
+
+2. The method ___________ () is used to execute and SQL command.
+--> execute()
+
+3. The method ___________ () is used to fetch all results by a query from database.
+--> fetchall()
+
+4. The method ___________ () is used to set layout widgets in a grid format in Tkinter.
+--> grid()
+
+
+
+
+------------------ Extra ------------------
+
+
+
+
+1. Which Python module is used to connect with MySQL database?
+--> mysql.connector
+
+2. What does DB stand for?
+--> Database
+
+3. Which command is used to select a database in MySQL?
+--> USE databasename;
+
+4. Which method is used to execute a SQL query in Python?
+--> cursor.execute()
+
+5. What does fetchall() method do?
+--> It retrieves all rows from the last executed query.
+
+6. What is the function of commit() in database programming?
+--> It saves the changes permanently in the database.
+
+7. Which SQL command is used to insert data?
+--> INSERT
+
+8. Which SQL keyword is used to retrieve all data from a table?
+--> SELECT *
+
+9. Which SQL command is used to delete records?
+--> DELETE
+
+10. What is the purpose of rollback() in database operations?
+--> It undoes the changes since the last commit().
+
+11. What does CRUD stand for in database operations?
+--> Create, Read, Update, Delete
+
+12. Which function is used to create a connection to MySQL in Python?
+--> mysql.connector.connect()
+
+13. What is a cursor in database programming?
+--> Cursor is a control structure used to interact with the result set.
+
+14. Which SQL command is used to update existing data?
+--> UPDATE
+
+15. What is the use of create table SQL command?
+--> It creates a new table in the database.
+
+16. Which method is used to close a database connection in Python?
+--> connection.close()
+
+17. Which method is used to close the cursor object?
+--> cursor.close()
+
+18. How do you retrieve only one row from a result set?
+--> Using fetchone() method.
+
+19. Which SQL clause is used to filter records?
+--> WHERE
+
+20. Which SQL clause is used to sort records?
+--> ORDER BY
+
+21. Which keyword is used in Python to handle database exceptions?
+--> try...except
+
+22. What is the output of cursor.rowcount?
+--> Number of rows affected by the last query.
+
+23. What is the default port number of MySQL?
+--> 3306
+
+24. Which data type is used to store text in MySQL?
+--> VARCHAR
+
+25. What is the use of IF NOT EXISTS in CREATE TABLE statement?
+--> It prevents error if the table already exists.
+
+26. What does SQL stand for?
+--> Structured Query Language
+
+27. What is primary key?
+--> A column or set of columns that uniquely identifies each row in a table.
+
+28. What is the use of LIMIT clause in SQL?
+--> To restrict the number of records returned.
+
+29. Which SQL command is used to remove a table completely?
+--> DROP TABLE
+
+30. Which clause is used to rename a table in SQL?
+--> RENAME TO

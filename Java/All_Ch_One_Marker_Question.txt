@@ -1,0 +1,65 @@
+----------------------------------- Full Form -----------------------------------
+
+----------------- Chapter : 1 -----------------
+
+J2EE – Java 2 Enterprise Edition
+
+JDBC – Java Database Connectivity
+
+JMS – Java Messaging Service
+
+EJB – Enterprise Java Beans
+
+JNDI – Java Naming and Directory Interface
+
+JSF – JavaServer Faces
+
+JSP – JavaServer Pages
+
+ODBC - Open Database Connectivity
+
+API - Application Programming Interface
+
+----------------- Chapter : 2 -----------------
+
+GMT - Greenwich Mean Time
+
+----------------- Chapter : 3 -----------------
+
+JSP - JavaServer Pages
+
+JSTL - JSP Standard Tag Libraries
+
+JSP EL - JSP Expression Language
+
+----------------- Chapter : 4 -----------------
+
+EJB - Enterprise JavaBeans
+
+POJO - Plain Old Java Object
+
+ORM - Object Relational Mapping
+
+HQL - Hibernate Query Language
+
+JTA - Java Transaction API
+
+----------------- Chapter : 5 -----------------
+
+IoC - Inversion of Control
+
+DI - Dependency Injection
+
+AOP - Aspect-Oriented Programming
+
+MVC - Model View Controller
+
+
+
+----------------------------------- Old Year Papger -----------------------------------
+
+1. ______implement the defined interfaces in the JDBC API, for interacting with your database server
+--> Drivers
+
+2. MySQL's Connector/J driver is a Type____driver.
+--> Type 4

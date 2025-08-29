@@ -1,0 +1,173 @@
+// Old Syllabus
+2019
+
+1. In Python, regular expressions are supported by the ___________ module.
+--> re
+
+2. A ___________ is a sequence of characters that forms a search pattern.
+--> regular expression
+
+3. JSON stands for ___________
+--> Javascript Object Notation.
+
+4. If there is no match, ___________ will be returned, instead of the Match Object.
+--> None
+
+//
+
+
+2022
+
+1. What is GUI ?
+--> .png
+
+2. What is mainloop() ?
+--> MATLAB
+
+3. What is TCL ?
+--> pyplot
+
+4. What is IP Address ?
+--> show()
+
+
+2023
+
+1. URL stand for ___________.
+--> Uniform Resource Locator
+
+2. UDP stand for ___________.
+--> User Datagram Protocol
+
+3. TCL stand for ___________.
+--> Tool Command Language
+
+4. TCP/IP stand for ___________.    
+--> Transimission Control Protocol / Internet Protocol.
+
+
+2024
+
+1. The ___________ module is commonly used for socket programing to handle network connections.
+--> socket
+
+2. The ___________ method is used to associate the socket with a specific network interface and port number.
+--> bind()
+
+3. The ___________ protocol is used to send email over the internet.
+--> SMTP
+
+4. The "socket.gethostname()" function in Python returns the ___________ of the machine
+--> socket.gethostname()
+
+
+
+
+------------------ Extra ------------------
+
+
+
+1. What is a socket in Python?
+--> A socket is an endpoint for sending or receiving data across a computer network.
+
+2. Which module in Python is used for network programming?
+--> socket module
+
+3. What is a protocol?
+--> A protocol is a set of rules for data communication over a network.
+
+4. Which function is used to get the IP address of a hostname?
+--> socket.gethostbyname()
+
+5. What does URL stand for?
+--> Uniform Resource Locator
+
+6. Which Python module is used to read the source code of a web page?
+--> urllib module
+
+7. What is the full form of TCP?
+--> Transmission Control Protocol
+
+8. Which protocol is connectionless – TCP or UDP?
+--> UDP
+
+9. What is the purpose of a client in network programming?
+--> To request services from the server.
+
+10. What is a GUI?
+--> Graphical User Interface
+
+11. Which module is commonly used in Python for creating GUI?
+--> tkinter
+
+12. What is event-driven programming?
+--> A programming paradigm where the flow is controlled by user actions/events.
+
+13. Name any two GUI widgets in tkinter.
+--> Button, Label
+
+14. Which widget is used for user text input in tkinter?
+--> Entry
+
+15. Which function is used to run the tkinter GUI loop?
+--> mainloop()
+
+16. What is the use of pack() in tkinter?
+--> It is used to place widgets in the window.
+
+17. Which attribute is used to change the background color of a button in tkinter?
+--> bg or background
+
+18. What is a frame in GUI?
+--> A container widget used to hold other widgets.
+
+19. Which widget helps create a tree-like structure in tkinter?
+--> Treeview (from ttk module)
+
+20. What is the function of a File Server?
+--> To provide access to files over a network.
+
+21. Which Python module is used to send email?
+--> smtplib
+
+22. What does GUI stand for?
+--> Graphical User Interface
+
+23. What is the default port number for HTTP?
+--> 80
+
+24. What does the bind() function do in socket programming?
+--> It binds the socket to an address and port.
+
+25. What does listen() function do in socket programming?
+--> It enables a server to accept connections.
+
+26. Which method is used to connect a client to a server in Python socket?
+--> connect()
+
+27. What does accept() do in server socket?
+--> It accepts a connection from a client.
+
+28. Name one layout manager used in tkinter.
+--> pack
+
+29. Which function is used to close a socket connection?
+--> close()
+
+30. What is the default port number for SMTP?
+--> 25
+
+31. What is the role of the Button widget in tkinter?
+--> It creates a clickable button.
+
+32. How do you change the font size of a label in tkinter?
+--> Using the font attribute.
+
+33. Which tkinter widget is used to create dialog boxes?
+--> messagebox
+
+34. What is the use of get() method in Entry widget?
+--> It gets the current text entered in the Entry box.
+
+35. Which layout manager allows precise widget placement in tkinter?
+--> place

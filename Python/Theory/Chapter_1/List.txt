@@ -1,0 +1,22 @@
+List (Array)
+
+2019 -- 2 Marks, 2022 -- 2 Marks, 2023 -- 5 Marks, 2024 -- 2 Marks
+
+
+------------------------------------------
+
+---> Definition :- A list in Python is a collection of items that are ordered, changeable (mutable), and allow duplicate values.
+     --> Lists are used to store multiple values in a single variable.
+     --> Each item in a list has an index, starting from 0.
+     --> Lists are written inside square brackets: [ ]
+     --> Items can be of any data type: numbers, strings, or even other lists
+     --> You can add, remove, or change items in a list
+
+
+--> Example :-
+    
+    fruits = ["apple", "banana", "mango", "orange"]
+    print(fruits)
+
+
+

@@ -1,0 +1,78 @@
+Branching Programing (Conditional Statement)
+
+2019 -- 3 Marks, 2022 -- 3 Marks, 2023 -- 3 Marks, 2024 -- 3 Marks
+
+
+------------------------------------------
+
+---> Definition :- A branching statement in Python is used to make decisions in the code and execute different blocks of code   based on certain conditions. It controls the flow of the program by choosing one path from multiple options.
+
+
+
+--> Python provides the following branching statements: 
+    / In Python, there are three main types of branching statements:
+
+--> if
+
+--> if-else
+
+--> if-elif-else
+
+--> nested if
+
+
+
+--> if Statement :-
+    --> Definition :- The if statement is used to execute a block of code only when a specific condition is true. If the condition is false, the block is skipped.
+
+    --> Example:-
+
+    age = 20
+    if age >= 18:
+        print("You are an adult.")
+
+
+--> if-else Statement :-
+    --> Definition :- The if-else statement allows the program to choose between two blocks of code. If the condition is true, the if block is executed; otherwise, the else block is executed.
+
+    --> Example:-
+
+   age = 16
+    if age >= 18:
+        print("You are an adult.")
+    else:
+        print("You are not an adult.")
+
+
+--> if-elif-else Statement :-
+    --> Definition :- The if-elif-else statement is used when there are multiple conditions to check. It executes the first block where the condition is true. If none of the conditions are true, the else block is executed.
+
+    --> Example:-
+
+   age = 45
+
+    if age < 13:
+        print("You are a child.")
+    elif age >= 13 and age < 20:
+        print("You are a teenager.")
+    elif age >= 20 and age < 60:
+        print("You are an adult.")
+    else:
+        print("You are a senior citizen.")
+
+
+--> Nested if Statement :-
+    --> Definition :- A nested if statement is when an if statement is written inside another if, else, or elif block. It allows for more complex decision-making.
+
+    --> Example:-
+
+   age = 45
+
+    number = 10
+
+    if number > 0:
+        if number % 2 == 0:
+            print("Positive even number")
+
+
+

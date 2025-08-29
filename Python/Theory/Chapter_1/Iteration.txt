@@ -1,0 +1,41 @@
+Iteration (Looping Statement)
+
+2019 -- 3 Marks, 2022 -- 5 Marks, 2023 -- 5 Marks, 2024 -- 5 Marks
+
+
+------------------------------------------
+
+---> Definition :- Iteration means repeating a set of instructions again and again. In Python, we use loops to do iteration.
+
+
+
+--> Types of Iteration in Python:
+
+--> for loop
+
+--> while loop
+
+
+
+--> for loop :-
+    --> Definition :- A for loop in Python is used to repeat a block of code for each item in a sequence (like a list, tuple, string, or range).
+    --> It is used when we know how many times we want to repeat something.
+
+    --> Example:-
+
+    for i in range(5):
+        print(i)
+
+
+--> while loop :-
+    --> Definition :- A while loop in Python is used to repeat a block of code as long as a given condition is true.
+    --> It keeps running the code inside the loop until the condition becomes false.
+
+    --> Example:-
+
+    count = 1
+
+    while count <= 5:
+        print("Count is:", count)
+        count += 1
+

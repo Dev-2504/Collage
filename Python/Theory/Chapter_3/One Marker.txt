@@ -1,0 +1,155 @@
+2019
+
+1. PyLab provides many of the facilities of ___________
+--> MATLAB
+
+2. ___________ method displays the graphical window on the computer screen.
+--> show()
+
+3. When stores PyLab Figure, Default extension ___________
+--> .png
+
+4. ___________ is a Python moedule that provides tools for scientific computing.
+--> SciPy
+
+
+2022
+
+1. What is the default extension of PyLab Figure ?
+--> .png
+
+2. PyLab provides many of the facilities of ___________.
+--> MATLAB
+
+3. Which module of matplotlib library is required for plotting of graph ?
+--> pyplot
+
+4. ___________ function is used to display figure / chart.
+--> show()
+
+
+2023
+
+1. Knapsack problem is also known as ___________ problem .
+--> Optimization
+
+2. ___________ method display the graphical window on the computer screen
+--> show()
+
+3. When stores PyLab Figure, Default extension ___________
+--> .png
+
+4. Which function is used to save plot graph to file ?
+--> savefig()
+
+
+2024
+
+1. The ___________ () function is used to create a new figure in PyLab.
+--> figure()
+
+2. The ___________ () function is used to display a plot on the screen in PyLab.
+--> show()
+
+3. The ___________ () function is used to save a plot as a PNG file in PyLab.
+--> savefig()
+
+4. An example of a sorting algorithm that uses the divide-and-conquer approach is ___________ sort.
+--> Quick Short
+
+
+
+
+------------------ Extra ------------------
+
+
+
+1. What is PyLab?
+--> PyLab is a module in matplotlib used for plotting and numerical operations.
+
+2. Which function is used to draw a line graph in PyLab?
+--> plot()
+
+3. Which function is used to show the graph?
+--> show()
+
+4. Which function is used to set the title of a graph?
+--> title("...")
+
+5. Which function is used to label the X-axis?
+--> xlabel("...")
+
+6. Which function is used to label the Y-axis?
+--> ylabel("...")
+
+7. Which function is used to draw a bar graph?
+--> bar()
+
+8. What is the use of legend() in PyLab?
+--> It displays labels for different data series in a graph.
+
+9. What is the Fibonacci series?
+--> A series where each number is the sum of the two preceding ones.
+
+10. Write the first five terms of the Fibonacci sequence.
+--> 0, 1, 1, 2, 3
+
+11. What is dynamic programming?
+--> A method for solving complex problems by breaking them down into simpler subproblems and storing results.
+
+12. What is the 0/1 Knapsack problem?
+--> A problem in which you choose items with given weights and values to maximize value within a weight limit.
+
+13. Which algorithm technique does Knapsack problem use?
+--> Dynamic Programming
+
+14. What is Divide and Conquer?
+--> A technique where a problem is divided into smaller subproblems, solved individually, and combined.
+
+15. Name a common algorithm that uses Divide and Conquer.
+--> Merge Sort
+
+16. Which PyLab function is used to save a plot as an image?
+--> savefig("filename.png")
+
+17. What is the use of grid(True) in PyLab?
+--> It displays a grid on the graph.
+
+18. Which PyLab function is used to plot multiple data series?
+--> Use multiple plot() calls before show()
+
+19. What does xlim() do in PyLab?
+--> Sets the limit of the X-axis.
+
+20. What does ylim() do in PyLab?
+--> Sets the limit of the Y-axis.
+
+21. What is mortgage plotting used for?
+--> To visualize payments over time with interest rates.
+
+22. What is the difference between line graph and bar graph?
+--> Line graph shows trends; bar graph compares quantities.
+
+23. What is recursion?
+--> A function calling itself to solve smaller subproblems.
+
+24. Why is dynamic programming better than recursion in some cases?
+--> Because it stores results and avoids repeated work.
+
+25. What is overlapping subproblem property?
+--> Same subproblems are solved multiple times in recursion (avoided in DP).
+
+26. What is optimal substructure property?
+--> An optimal solution can be formed from optimal solutions of subproblems.
+
+27. Which function is used to draw histograms in PyLab?
+--> hist()
+
+28. What is the output of plot([1,2,3], [4,5,6])?
+--> A line graph with points (1,4), (2,5), (3,6)
+
+29. Which Python library includes PyLab?
+--> matplotlib
+
+30. What is the default color of a plot line in PyLab?
+--> Blue

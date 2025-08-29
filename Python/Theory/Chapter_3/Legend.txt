@@ -1,0 +1,27 @@
+--> Definition : The legend() method in Matplotlib is used to display labels on a plot.
+            --> It creates a legend box that shows which line, bar, or point corresponds to which label, making the graph easy to understand.
+            --> The legend appears only if you assign a label while plotting.
+
+--> Syntax :
+
+    plt.legend()
+
+--> Example :
+
+    import matplotlib.pyplot as plt
+
+    x = [1, 2, 3, 4]
+    y1 = [2, 4, 6, 8]
+    y2 = [1, 3, 5, 7]
+
+    # Plot two lines with labels
+    plt.plot(x, y1, label='Line A', color='blue')
+    plt.plot(x, y2, label='Line B', color='green')
+
+    plt.title("Line Plot with Legend")
+    plt.xlabel("X Axis")
+    plt.ylabel("Y Axis")
+
+    # Display the legend
+    plt.legend(loc='upper left', title="Lines")
+    plt.show()

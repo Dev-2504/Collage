@@ -1,0 +1,46 @@
+Definition : Encapsulation means hiding the internal details of an object and only showing what is necessary.
+         --> It is used to protect data from being directly accessed or modified.
+         --> In Python, we use private variables (by adding __ before variable name) to achieve encapsulation.
+
+Syntax :
+
+class ClassName:
+    def __init__(self):
+        self.__private_var = value  # private variable
+
+    def get_var(self):
+        return self.__private_var   # getter method
+
+    def set_var(self, value):
+        self.__private_var = value  # setter method
+
+Example :
+
+class Student:
+    def __init__(self):
+        self.__marks = 0  # private variable
+
+    # Getter method
+    def get_marks(self):
+        return self.__marks
+
+    # Setter method
+    def set_marks(self, marks):
+        if marks >= 0 and marks <= 100:
+            self.__marks = marks
+        else:
+            print("Invalid Marks")
+
+# Create object
+s1 = Student()
+
+# Set marks using method
+s1.set_marks(85)
+
+# Get marks using method
+print("Marks:", s1.get_marks())
+
+
+Output :
+
+Marks: 85

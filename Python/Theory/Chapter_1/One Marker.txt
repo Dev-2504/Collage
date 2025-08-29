@@ -1,0 +1,179 @@
+2019
+
+1. Python commands are evaluated / executed in ___________.
+--> Interpreter
+
+2. The __________ symbol is a shell prompt in Python.
+--> >>>
+
+3. The ___________ symbol is to set comments in Python.
+--> #
+
+4. IDLE stands for __________.
+--> Integrated Development and Learning Environment.
+
+
+2022
+
+1. What is Tuple ?
+--> A tuple in Python is a collection of items that is ordered and unchangeable (immutable).
+
+2. What is Python ?
+-->Python is a popular, high-level programming language known for its simple syntax and readability. It supports multiple programming styles like object-oriented, procedural, and functional programming. Python is widely used in web development, data science, machine learning, automation, and more.
+
+3. How many keywords are there in python 3.7 ?
+--> 33 Keywords
+
+4. Which character is used in python to make a single line comment ?
+--> #
+
+
+2023
+
+1. Who is the developer of Python ?
+--> Guido van Rossum
+
+2. Which special character used for new line
+--> \n
+
+3. Python command are evaluated / executed in __________.
+--> Interpreter
+
+4. The __________ symbol is to set single line comment in python.
+--> #
+
+
+2024
+
+1. IDLE stands for __________.
+--> Integrated Development and Learning Environment.
+
+2. __________ is/are container(s) for storing basic data value(s)
+--> Variable(s)
+
+3. __________ is the creator/inventor of the python programing language.
+--> Guido van Rossum
+
+4. __________ default extension of python file
+--> .py
+
+
+------------------ Extra ------------------ 
+
+
+1. What is Python?
+--> Python is a high-level, interpreted programming language.
+
+2. Who developed Python and in which year?
+--> Guido van Rossum in 1991.
+
+3. What is the extension of a Python file?
+--> .py
+
+4. Is Python interpreted or compiled?
+--> Interpreted.
+
+5. Name two keywords in Python.
+--> if, else
+
+6. What symbol is used for comments in Python?
+--> #
+
+7. What is the use of if statement?
+--> To check a condition and execute code accordingly.
+
+8. Write the syntax of an if-else statement.
+--> 
+
+    if condition:
+        statement
+    else:
+        statement
+
+9. Which keyword is used for multiple conditions in Python?
+--> elif
+
+10. What is the output of: print(5 > 10)?
+--> False
+
+11. Which function is used to take input from the user?
+--> input()
+
+12. Which symbol is used for string concatenation?
+--> +
+
+13. How to find the length of a string in Python?
+--> Using len() function.
+
+14. What is indexing in strings?
+--> Accessing characters using position numbers (starting from 0).
+
+15. Name two types of loops in Python.
+--> for, while
+
+16. What is the purpose of break statement?
+--> To exit a loop early.
+
+17. What is the use of range() function?
+--> To generate a sequence of numbers.
+
+18. Write the syntax of a for loop.
+--> for i in range(5):
+        print(i)
+
+19. Q: How do you define a function in Python?
+--> Using the def keyword.
+
+20. What keyword is used to return a value from a function?
+--> return
+
+21. What is recursion?
+--> A function calling itself.
+
+22. What is a local variable?
+--> A variable declared inside a function.
+
+23. What is a global variable?
+--> A variable declared outside all functions.
+
+24. What is a module in Python?
+--> A file containing Python code (functions, classes, etc.)
+
+25. Which keyword is used to import a module?
+--> import
+
+26. What is the use of open() function?
+--> To open a file in Python.
+
+27. What is the difference between list and tuple?
+--> Lists are mutable; tuples are immutable.
+
+28. Are lists mutable in Python?
+--> Yes.
+
+29. How do you define a list?
+--> my_list = [1, 2, 3]
+
+30. How do you define a tuple?
+--> my_tuple = (1, 2, 3)
+
+31. Can functions be assigned to variables in Python?
+--> Yes.
+
+32. What are string methods? Give one example.
+--> Built-in functions for strings. Example: upper()
+
+33. Is string mutable or immutable in Python?
+--> Immutable.
+
+34. What is a dictionary in Python?
+--> A collection of key-value pairs.
+
+35. How do you define a dictionary?
+--> my_dict = {'name': 'John', 'age': 25}
+
+36. What function is used to get keys from a dictionary?
+--> keys()
+
+37. Can dictionary keys be duplicated?
+--> No.

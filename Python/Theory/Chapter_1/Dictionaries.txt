@@ -1,0 +1,26 @@
+Dictionaries (Object)
+
+2022 -- 5 Marks, 2023 -- 3 Marks, 2024 -- 2 Marks
+
+------------------------------------------
+
+---> Definition :- A dictionary in Python is a collection of key-value pairs.
+     --> Each item in a dictionary has a key and a value, and you use the key to access the value.
+     --> Dictionaries are unordered (before Python 3.7), changeable (mutable), and do not allow duplicate keys.
+     --> Dictionaries are written using curly brackets: { }
+     --> Each item is a key : value pair
+     --> You access values using keys, not indexes
+     --> Dictionaries are useful when you want to store labeled data
+
+
+--> Example :-
+    
+    student = {
+        "name": "John",
+        "age": 20,
+        "grade": "A"
+    }
+
+    print(student["name"])  # Output: John
+    
+

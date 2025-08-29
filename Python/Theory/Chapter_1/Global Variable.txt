@@ -1,0 +1,31 @@
+Global Variable
+
+2022 -- 2 Marks, 2023 -- 2 Marks,
+
+------------------------------------------
+
+---> Definition :- A global variable in Python is a variable that is declared outside of all functions and is accessible from   anywhere in the program — both inside and outside of functions.
+     --> It has a global scope, meaning it can be used in any part of the code.
+     --> Declared outside any function
+     --> Can be accessed inside functions
+     --> To modify a global variable inside a function, you must use the global keyword
+
+
+--> Example :-
+    
+    x = 10  # Global variable
+
+    def show():
+        print("Value of x is:", x)
+
+    show()
+    print("Outside function, x is:", x)
+
+
+--> Output :-
+
+    Value of x is: 10  
+    Outside function, x is: 10
+
+
+    

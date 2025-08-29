@@ -1,0 +1,78 @@
+2019
+
+Assertion           ----
+Handling Exceptions ---
+
+Inheritance ---
+Encapsulation and Information Hiding ---
+
+Search Algorithm
+Sorting Algorithm
+
+2022
+
+class ---
+Inheritance ---
+
+self
+Encapsulation ---
+
+Abstract data type and classes
+Hash Table ---
+
+
+2023
+
+Assertion   ----
+class ---
+
+Hash Table ---
+Bubble Sort ---
+
+Inheritance ---
+Handling Exception ---
+
+2024
+
+AttributeError
+ValueError
+
+ADT
+Inheritance ---
+
+Linear Search
+Bubble Sort ---
+
+
+
+1. Assertion --> 2Times -- 2marks
+
+2. Handling Exception --> 2Times -- 2marks, 5marks
+
+3. Inheritance --> 4Times -- 2marks, 3marks, 5marks
+
+4. class --> 2Times -- 2marks
+
+5. Encapsulation --> 2Times -- 3marks
+
+6. Hash table --> 2Times -- 3marks, 5marks
+
+7. Bubble Sort --> 2Times -- 3marks, 5marks
+
+-------- Asked only one time --------
+
+8. Search Algorithm -- 5marks
+
+9. Sorting Algorithm -- 5marks
+
+10. self -- 3marks
+
+11. abstract data type and classes -- 5 marks
+
+12. AttributeError -- 2marks
+
+13. ValueError -- 2marks
+
+14. ADT -- 3marks
+
+15. Linear Search -- 5marks

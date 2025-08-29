@@ -1,0 +1,32 @@
+--> Definition : An assertion is a way to test if a condition in your program is True.
+             --> If the condition is False, the program will stop and raise an AssertionError.
+             --> It is mostly used for debugging and validating assumptions in code.
+
+--> assert — This is the keyword used for assertion in Python.
+
+--> 1. Used for debugging:
+    --> Helps to catch bugs early by checking if conditions are met.
+
+--> 2. Stops program on failure:
+    --> If the condition is false, Python stops running and shows an error.
+
+--> 3. Can include error message:
+    --> You can add a custom message to explain the reason for the failure.
+
+--> Syntax : 
+
+    assert condition, "optional error message"
+
+--> Example :
+
+    age = 18
+    assert age >= 18, "Age must be at least 18"
+    print("You are eligible.")
+
+--> Output : 
+
+    You are eligible.
+
+age = 15
+
+AssertionError: Age must be at least 18

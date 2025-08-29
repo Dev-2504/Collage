@@ -1,0 +1,142 @@
+2022
+
+1. What does SQL stand for ?
+--> Structured Query Language
+
+2. ___________ method executes a database query from within python.
+--> execute()
+
+3. By default the order by clause sorts the result set in the ___________ order.
+--> ascending
+
+4. Which package import before writing database connectivity python code ?
+--> sqlite3
+
+
+2023
+
+1. SQL stand for ___________.
+--> Structured Query Language
+
+2. Which package used to connect Mysql database in python code ?
+--> mysql.connector
+
+3. List out connection() function parameters.
+--> host, user, password, database
+
+4. Which method of cursor class is used to fetch only one row from the table ?    
+--> fetchone()
+
+
+2024
+
+1. The method ___________ () is used to establish a connection to a database.
+--> connect()
+
+2. The method ___________ () is used to execute and SQL command.
+--> execute()
+
+3. The method ___________ () is used to fetch all results by a query from database.
+--> fetchall()
+
+4. The method ___________ () is used to set layout widgets in a grid format in Tkinter.
+--> grid()
+
+
+
+
+------------------ Extra ------------------
+
+
+
+
+1. Which Python module is used to connect with MySQL database?
+--> mysql.connector
+
+2. What does DB stand for?
+--> Database
+
+3. Which command is used to select a database in MySQL?
+--> USE databasename;
+
+4. Which method is used to execute a SQL query in Python?
+--> cursor.execute()
+
+5. What does fetchall() method do?
+--> It retrieves all rows from the last executed query.
+
+6. What is the function of commit() in database programming?
+--> It saves the changes permanently in the database.
+
+7. Which SQL command is used to insert data?
+--> INSERT
+
+8. Which SQL keyword is used to retrieve all data from a table?
+--> SELECT *
+
+9. Which SQL command is used to delete records?
+--> DELETE
+
+10. What is the purpose of rollback() in database operations?
+--> It undoes the changes since the last commit().
+
+11. What does CRUD stand for in database operations?
+--> Create, Read, Update, Delete
+
+12. Which function is used to create a connection to MySQL in Python?
+--> mysql.connector.connect()
+
+13. What is a cursor in database programming?
+--> Cursor is a control structure used to interact with the result set.
+
+14. Which SQL command is used to update existing data?
+--> UPDATE
+
+15. What is the use of create table SQL command?
+--> It creates a new table in the database.
+
+16. Which method is used to close a database connection in Python?
+--> connection.close()
+
+17. Which method is used to close the cursor object?
+--> cursor.close()
+
+18. How do you retrieve only one row from a result set?
+--> Using fetchone() method.
+
+19. Which SQL clause is used to filter records?
+--> WHERE
+
+20. Which SQL clause is used to sort records?
+--> ORDER BY
+
+21. Which keyword is used in Python to handle database exceptions?
+--> try...except
+
+22. What is the output of cursor.rowcount?
+--> Number of rows affected by the last query.
+
+23. What is the default port number of MySQL?
+--> 3306
+
+24. Which data type is used to store text in MySQL?
+--> VARCHAR
+
+25. What is the use of IF NOT EXISTS in CREATE TABLE statement?
+--> It prevents error if the table already exists.
+
+26. What does SQL stand for?
+--> Structured Query Language
+
+27. What is primary key?
+--> A column or set of columns that uniquely identifies each row in a table.
+
+28. What is the use of LIMIT clause in SQL?
+--> To restrict the number of records returned.
+
+29. Which SQL command is used to remove a table completely?
+--> DROP TABLE
+
+30. Which clause is used to rename a table in SQL?
+--> RENAME TO
+
