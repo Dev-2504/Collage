@@ -55,11 +55,406 @@ AOP - Aspect-Oriented Programming
 MVC - Model View Controller
 
 
+----------------------------------- Old Paper -----------------------------------
 
------------------------------------ Old Year Papger -----------------------------------
+----------------- Chapter : 1 -----------------
 
-1. ______implement the defined interfaces in the JDBC API, for interacting with your database server
---> Drivers
+1. Container provides communication platform between _____ and _____.
+-> Client, Server
 
-2. MySQL's Connector/J driver is a Type____driver.
---> Type 4
+2. _____ method is used to send precompiled query to the database.
+-> prepareStatement()
+
+3. _____ implement the defined interfaces in the JDBC API, for interacting with your database server.
+-> JDBC Drivers
+
+4. MySQL's Connector/ J driver is a Type _____ driver.
+-> Type 4
+
+5. The _____ logic resides at the middle tier.
+-> business
+
+6. Which api provides server-side software component level functionality in a J2EE application?
+-> Servlet Api
+
+7. Which package needs to be imported for implementing JDBC API in a JDBC Program ?
+-> java.sql.*
+
+8. Which interface is used to call stored procedure in JDBC ?
+-> CallableStatement
+
+----------------- Chapter : 2 -----------------
+
+1. _____ method is used in URL rewriting ?
+-> encodeURL()
+
+2. Which method return current session ?
+-> request.getSession()
+
+3. Which package needs to be imported for a servlet ?
+-> javax.servlet.*
+
+4. _____ file is known as a Deployment Descriptor.
+-> web.xml
+
+5. _____ is the server side proxy of the remote object.
+-> Stub
+
+6. doGet() and doPost() methods are called via _____.
+-> service()
+
+----------------- Chapter : 3 -----------------
+
+1. List out JSP Element.
+->
+
+2. What is use of taglib directive ?
+-> The taglib directive in JSP is used to declare and use custom tag libraries in a JSP page.
+
+3. List out scope of the JSP objects ?
+->
+
+4. _____ tag allows to write Java code into JSP file.
+-> <% %>
+
+5. Which tag is used as start and end JSP in a JSP Page ?
+-> <%@ %>
+
+6. Which tage is used for plugin mechanism in JSP Page ?
+-> <jsp:plugin>
+
+7. 
+
+8. Write down syntax of <jsp:forward>
+-> <jsp:forward page="relativeURL">
+        <jsp:param name="paramName" value="paramValue" />
+    </jsp:forward>
+
+9. A bean consist _____, _____ and _____
+-> Properties – Attributes of the bean.
+   Methods – Operations to get/set properties (getters and setters).
+   Events – Actions the bean can respond to or generate.
+
+10. _____ tag allows to write Java code into JSP file.
+-> <% %>
+
+12. Give the syntax of page directive elements.
+-> <%@ page attribute="value" %>
+
+13. What is JavaBeans ?
+->
+
+----------------- Chapter : 4 -----------------
+
+1. What is EJB ?
+-> 
+
+2. _____ is name of hibernate XML configuration file.
+-> hibernate.cfg.xml
+
+3. _____ is the name of hibernates own query language.
+-> HQL
+
+4. List out layers in Hibernate architecture.
+-> Presentation, Business, Persistence, Database
+
+5. In MVC, the _____ defines java bean classes that internally define the system state and actions to change that state.
+-> Model
+
+6. _____ provides mapping information in Hibernate.
+-> *.hbm.xml
+
+
+----------------- Chapter : 5 -----------------
+
+1. Who Developed Spring fremwork ?
+-> Rod Johnson.
+
+2. Pointcut is a set of _____ where advice should be run
+-> join points
+
+
+
+
+----------------------------------- Extra -----------------------------------
+
+----------------- Chapter : 1 -----------------
+
+1. J2EE nu full form su che?
+→ Java 2 Enterprise Edition
+
+2. J2EE mainly kaya type ni applications banava use thay che?
+→ Enterprise applications
+
+3. Two-Tier architecture ma ketla layer hoy?
+→ 2 layers (Client + Server)
+
+4. Three-Tier architecture ma ketla layer hoy?
+→ 3 layers (Client, Application Server, Database)
+
+5. N-Tier architecture su suggest kare che?
+→ More than 3 layers ni architecture
+
+6. Enterprise Architecture su che?
+→ Large scale business applications ni design approach
+
+7. Tomcat su che?
+→ Web Container (Servlet/JSP run karva mate)
+
+8. Container su kaam kare che?
+→ Lifecycle, security, resource management handle kare che
+
+9. J2EE platform su provide kare che?
+→ APIs and runtime environment for enterprise apps
+
+10. Servlet API su mate use thay che?
+→ Web request/response handle karva
+
+11. JSP no full form su?
+→ JavaServer Pages
+
+12. JMS no full form su?
+→ Java Message Service
+
+13. JNDI no full form su?
+→ Java Naming and Directory Interface
+
+14. JDBC no full form su?
+→ Java Database Connectivity
+
+15. JDBC su mate use thay che?
+→ Database sathé connect thai CRUD operations karva
+
+16. JDBC architecture ma ketli layers hoy?
+→ Two layers (JDBC API + JDBC Driver)
+
+17. JDBC driver kitla type na hoy che?
+→ 4 Types
+
+18. Simple JDBC application banava mate pahlo step su?
+→ Load Driver
+
+19. Statement interface su kare che?
+→ SQL query execute kare che (simple queries)
+
+20. PreparedStatement su kare che?
+→ Pre-compiled SQL query execute kare che (faster & secure)
+
+21. CallableStatement su mate use thay che?
+→ Stored procedure execute karva mate
+
+22. CRUD no full form?
+→ Create, Read, Update, Delete
+
+23. JDBC ma kaya package import karvo pade?
+→ java.sql.*
+
+24. Database connection generate karva mate kai class use thay?
+→ DriverManager
+
+25. CRUD mainly kaya operations par based che?
+→ Database table operations
+
+
+
+----------------- Chapter : 2 -----------------
+
+1. Servlet su che?
+→ Java program that runs on server to handle web requests.
+
+2. Servlet kaya side par execute thay che?
+→ Server-side
+
+3. Servlet framework kaya package ma define che?
+→ javax.servlet & javax.servlet.http
+
+4. Servlet no life cycle method su hoy?
+→ init(), service(), destroy()
+
+5. Servlet life cycle method service() su kare che?
+→ Request process kare che ane response generate kare che.
+
+6. javax.servlet.http package su contain kare che?
+→ HTTP-specific servlet classes & interfaces.
+
+7. Deployment Descriptor name su che?
+→ web.xml
+
+8. web.xml su configure kare che?
+→ Servlet configuration (mapping, init params, etc.)
+
+9. Servlet create karva mate kay class ne extend karva pade?
+→ HttpServlet
+
+10. doGet() method su handle kare che?
+→ HTTP GET requests
+
+11. doPost() method su handle kare che?
+→ HTTP POST requests
+
+12. HttpServletRequest su represent kare che?
+→ Client request info
+
+13. HttpServletResponse su represent kare che?
+→ Server response info
+
+14. Initialization parameters su che?
+→ Configuration values for servlet
+
+15. Initialization parameters kaythi read thay?
+→ getInitParameter()
+
+16. Servlet destroy method kya call thay?
+→ Server shutdown / servlet unload time
+
+17. Servlet mapping kya define thay che?
+→ web.xml ma <servlet-mapping>
+
+18. Context parameter su che?
+→ App-level initialization parameter
+
+19. URL Rewriting su che?
+→ Session ID ne URL ma attach karvu
+
+20. Hidden Form Field su kare che?
+→ Form ma hidden data store kare che (session track karva)
+
+21. Cookie su store kare che?
+→ Client side small text data
+
+22. Session API kaya interface provide kare che?
+→ HttpSession
+
+23. Session tracking su mate use thay?
+→ User request continuity maintain karva
+
+24. Cookie server side ke client side?
+→ Client side
+
+25. Session object kaythi madse?
+→ request.getSession()
+
+26. Servlet container nu example?
+→ Apache Tomcat
+
+27. Servlet deploy kya karvama ave che?
+→ Web container (server)
+
+28. Servlet configuration kya defined hoy che?
+→ web.xml ma <init-param> through
+
+29. Request data read karva kai method?
+→ getParameter()
+
+30. doGet() call su indicates kare che?
+→ URL / link access request
+
+
+----------------- Chapter : 4 -----------------
+
+🔷 EJB (Enterprise JavaBeans)
+
+1. EJB no full form su che?
+→ Enterprise JavaBeans
+
+2. EJB su mate use thay che?
+→ Business logic handle karva
+
+3. EJB kaya server par run thay che?
+→ Application Server
+
+4. EJB ni ketli types hoy?
+→ 3 types
+
+5. Session beans ketli types na hoy?
+→ 3 (Stateless, Stateful, Singleton)
+
+6. Stateless bean su represent kare che?
+→ No client-specific state
+
+7. Stateful bean su represent kare che?
+→ Client-specific state maintain kare che
+
+8. EJB security & transaction kay handle kare che?
+→ Container automatically
+
+9. EJB container su kare che?
+→ Lifecycle, Transaction, Security manage
+
+🔷 MVC Architecture
+
+10. MVC no full form su che?
+→ Model View Controller
+
+11. MVC su separate kare che?
+→ Business logic, UI & control
+
+12. MVC ma Model su represent kare che?
+→ Data & Business logic
+
+13. MVC ma View su represent kare che?
+→ UI (presentation)
+
+14. MVC ma Controller su represent kare che?
+→ Request handling & controlling
+
+15. MVC architecture no main benefit?
+→ Code separation & maintainability
+
+16. MVC implement karva kyare use thay?
+→ Large web applications
+
+🔷 Hibernate
+
+17. Hibernate su che?
+→ ORM (Object Relational Mapping) framework
+
+18. ORM no full form su che?
+→ Object Relational Mapping
+
+19. Hibernate kai layer vachche mapping kare che?
+→ Java objects ↔ Database tables
+
+20. Hibernate primary configuration file name?
+→ hibernate.cfg.xml
+
+21. Hibernate mapping file extension su hoy?
+→ .hbm.xml
+
+22. Hibernate Session su provide kare che?
+→ Database operations methods
+
+23. Hibernate annotation su mate use thay che?
+→ Mapping using Java annotations
+
+24. Hibernate sql ni jagyae su use kare che?
+→ HQL
+
+25. HQL no full form?
+→ Hibernate Query Language
+
+26. Hibernate ma table ne class sathe mapping kaya concept thi thay?
+→ ORM
+
+27. Hibernate architecture ma SessionFactory su kare che?
+→ Session objects create kare che
+
+28. Hibernate automatic table creation su kahe che?
+→ Schema generation
+
+29. Hibernate ma caching available che?
+→ Yes (Level-1 & Level-2 cache)
+
+30. Hibernate ma Entity class mate kay annotation use thay?
+→ @Entity
+
+🔷 Extra Expected
+
+31. Hibernate removes which database dependency?
+→ JDBC boilerplate code
+
+32. Hibernate lazy loading su che?
+→ Data only when required
+
+33. Hibernate dialect su represent kare che?
+→ Specific database syntax rules
