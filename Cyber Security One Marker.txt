@@ -1,0 +1,335 @@
+------------- Full Form -------------
+------------- Chapter :- 1 -------------
+WWW => World Wide Web
+WAN => Wide Area Network
+TCP/IP => Transmission Control Protocol / Internet Protocol.
+HTTP => Hyper Text Transfer Protocol.
+HTML => Hyper Text Markup Language
+ISOC => Internet Society
+URL => Uniform Resource Locator
+IP => Internet Protocol
+LAN => Local Area Network
+
+------------- Chapter :- 2 -------------
+IT => Information Technology
+------------- Chapter :- 3 -------------
+SMM => Social Media Marketing
+------------- Chapter :- 4 -------------
+USSD => Unstructured Supplementary service data
+UPI => Unified Payment Interface
+RBI => Reserve bank of India
+OTP => One time password
+------------- Chapter :- 5 -------------
+OS => Operating System
+
+------------- Chapter :- 1 -------------
+
+1. Define: Cyber Security.
+-> Cyber security e computer system ane network ne unauthorized access thi protect karva ni process che.
+
+2. WWW stands for _____.
+-> World Wide Web.
+
+3. What is Internet?
+-> Internet ek global network che je lakhon computer ne jode che ane data exchange kare che.
+
+4. WAN stands for _____.
+-> Wide Area Network.
+
+5. Define: Cyberspace.
+-> Cyberspace e virtual space che jema digital communication ane online activities thay che.
+
+6. Who invented the World Wide Web?
+-> Tim Berners-Lee.
+
+7. What is the full form of TCP/IP?
+-> Transmission Control Protocol / Internet Protocol.
+
+8. What is the main purpose of Cyber Security?
+-> System ane data ne secure rakhvu from hacking, virus ane unauthorized access.
+
+9. What is Web Technology?
+-> Web Technology e websites ane web applications banavva mate ni technology che.
+
+10. Full form of HTTP _____.
+-> Hyper Text Transfer Protocol.
+
+11. Full form of HTML _____.
+-> Hyper Text Markup Language.
+
+12. What is Internet Society (ISOC)?
+-> Ek organization je internet no development ane use promote kare che.
+
+13. What is Cyber Crime?
+-> Crime je internet ya computer dwara thay te cyber crime kahevay.
+
+14. Full form of URL _____.
+-> Uniform Resource Locator.
+
+15. Full form of IP address _____.
+-> Internet Protocol address.
+
+16. Define: Communication Technology.
+-> Information ne ek jagya thi biji jagya sudhi electronic form ma moklva ni process.
+
+17. What is the main component of Cyberspace?
+-> Network, computers, servers, ane users.
+
+18. Full form of LAN _____.
+-> Local Area Network.
+
+19. What is Internet Governance?
+-> Internet ne manage ane control karva ni policy ane rules ne governance kahevay.
+
+20. Mention one challenge of Cyber Security.
+-> Hacking ane data breach cyber security na main challenges che.
+
+
+------------- Chapter :- 2 -------------
+
+1. _____ is any program or file that’s intentionally harmful to a computer.
+-> Malware.
+
+2. Define: Financial Fraud.
+-> Financial fraud e paisa ya financial information ne cheat ya illegally use karvanu cyber crime che.
+
+3. The attacker locks and encrypts victim’s data and demands money — it is known as ______ attack.
+-> Ransomware attack.
+
+4. What is Cyber Law?
+-> Cyber law e internet ane digital activities ne control karva mate banaavela kanoon che.
+
+5. What is Cyber Crime?
+-> Cyber crime e koi pan aavi criminal activity che je computer ya internet dwara thay che.
+
+6. Full form of IT Act _____.
+-> Information Technology Act.
+
+7. IT Act was implemented in which year?
+-> Year 2000.
+
+8. Define: Social Engineering Attack.
+-> Social engineering e loko ne manipulate kari information ya password medvani trick che.
+
+9. Define: Malware.
+-> Malware e malicious software che je computer ne damage kare che.
+
+10. Define: Phishing.
+-> Phishing e fake email ya website thi user ni personal information medvani trick che.
+
+11. Cyber crime against women include _____.
+-> Cyber stalking, harassment, morphing, and cyber bullying.
+
+12. Cyber crime targeting mobiles includes _____.
+-> SMS fraud, mobile malware, SIM swapping.
+
+13. Define: Zero-day attack.
+-> Zero-day attack e software ma navi weakness find thai tyare immediately exploit karva ma aave te attack che.
+
+14. Define: Zero-click attack.
+-> Zero-click attack ma user ne koi click karvu na pade — attacker automatically exploit kare che.
+
+15. What is Cybercriminal’s Modus Operandi?
+-> Modus Operandi e cyber criminal kevi rite plan kari crime kare che te bataave che.
+
+16. Define: Ransomware.
+-> Ransomware e aavu malware che je user ni file encrypt kari ransom (money) mange che.
+
+17. What is the main aim of Cyber Law?
+-> Internet par illegal activities ne control karvu ane users ne protection aapvu.
+
+18. Name one organisation dealing with cyber crime in India.
+-> CERT-IN (Computer Emergency Response Team - India).
+
+19. Cyber crime ni reporting kya thai che?
+-> www.cybercrime.gov.in
+
+20. What are remedial measures of cyber crime?
+-> Strong passwords, antivirus use karvu, data backup rakhvu, ane awareness badhavu.
+
+------------- Chapter :- 3 -------------
+
+1. SMM stands for _____.
+→ Social Media Marketing.
+
+2. Define: Social Network.
+→ Online platform jya users connect, share, ane communicate kare chhe.
+
+3. _____ is the largest video-sharing platform.
+→ YouTube.
+
+4. Define: Hashtag.
+→ ‘#’ symbol saathe keyword je trend ane category identify kare.
+
+5. Give example of social networking platform.
+→ Facebook / Instagram.
+
+6. Viral content means _____.
+→ Content je quickly internet par spread thay.
+
+7. Full form of SNS.
+→ Social Networking Sites.
+
+8. Name one Social Media monitoring tool.
+→ Hootsuite.
+
+9. ______ helps to increase online brand promotion.
+→ Social Media Marketing.
+
+10. Define: Social Media Privacy.
+→ Online personal data ni protection ane limited sharing.
+
+11. TikTok is related to which type of media?
+→ Short-video sharing media.
+
+12. ______ symbol is used for hashtag.
+→ #
+
+13. Reporting inappropriate content helps to _____.
+→ Remove harmful / offensive content.
+
+14. What is flagging?
+→ Suspicious ya inappropriate content mark karvu.
+
+15. Laws for posting content are made to prevent _____.
+→ Misuse of social media.
+
+16. Example of image-sharing social media platform.
+→ Instagram.
+
+17. Define: Social Media Platforms.
+→ Apps/websites je social interaction ane sharing allow kare.
+
+18. Give one online social network challenge.
+→ Cyberbullying.
+
+19. Opportunity of social media is _____.
+→ Global reach / marketing.
+
+20. Pitfall of social media is _____.
+→ Privacy loss / fake news.
+
+------------- Chapter :- 4 -------------
+
+1. USSD stands for _____.
+→ Unstructured Supplementary Service Data.
+
+2. Physical or virtual cards issued by banks used for online and offline transactions are known as Banking Cards. (True / False)
+→ True.
+
+3. Give full form of UPI.
+→ Unified Payment Interface.
+
+4. Define: Aadhaar enabled payment system.
+→ Aadhaar number + biometric thi banking services karva digital payment system.
+
+5. Define: E-Commerce.
+→ Internet par goods & services buy/sell karvani process.
+
+6. Example of E-Commerce website.
+→ Amazon / Flipkart.
+
+7. Components of digital payment are merchant, customer & _____.
+→ Banks.
+
+8. _____ are digital wallets used to store money electronically.
+→ e-Wallets.
+
+9. Name one threat in E-Commerce.
+→ Phishing / Data breach.
+
+10. Define: Banking cards.
+→ Bank dwara issue thayela debit/credit cards for transactions.
+
+11. Full form of RBI.
+→ Reserve Bank of India.
+
+12. UPSI regulates unauthorized transactions. (True/False)
+→ False. (RBI guidelines regulate)
+
+13. Example of e-Wallet.
+→ Paytm / PhonePe.
+
+14. A system that allows money transfer using just mobile number & PIN is _____.
+→ USSD.
+
+15. Card fraud prevention requires _____.
+→ OTP (One-Time Password).
+
+16. Major stakeholder in digital payment is _____.
+→ Consumer / Bank / Merchant.
+
+17. Payment Settlement Act was passed in which year?
+→ 2007.
+
+18. Define: Digital Payment.
+→ Payment je digital devices & internet through complete thay.
+
+19. A common fraud where user is tricked via fake messages is called _____.
+→ Phishing / Smishing.
+
+20. Best security practice for online shopping is _____.
+→ Use trusted websites & secure passwords.
+
+
+------------- Chapter :- 5 -------------
+
+1. Encrypt sensitive data stored on endpoint devices to protect it from unauthorized access if the device is lost. (True/False)
+→ True.
+
+2. Define: Data backup.
+→ Important data ni copy create karvi future loss avoid karva.
+
+3. What is Device security policy?
+→ Rules & guidelines je device secure use karva follow karvani hoy.
+
+4. _____ is software designed to detect malicious software from devices.
+→ Anti-virus.
+
+5. Full form of OS in security context.
+→ Operating System.
+
+6. Security patch management means _____.
+→ Software updates apply kari vulnerabilities fix karvi.
+
+7. Example of endpoint device.
+→ Mobile / Laptop.
+
+8. Strong password should contain _____.
+→ Uppercase, lowercase, numbers & symbols.
+
+9. Device encryption protects data from _____.
+→ Unauthorized access.
+
+10. Define: Cyber Security best practices.
+→ Steps je online system secure rakhe.
+
+11. Firewall protects system from _____.
+→ Unauthorized network access.
+
+12. Updating antivirus regularly is _____.
+→ Good security practice.
+
+13. Data loss can occur due to _____.
+→ Hardware failure / virus attack.
+
+14. Downloading third-party software from unknown source is _____.
+→ Security risk.
+
+15. Anti-virus scans the system to remove _____.
+→ Malware.
+
+16. Backup frequency depends on _____.
+→ Importance of data.
+
+17. Wi-Fi security prevents _____.
+→ Unauthorized network access.
+
+18. One common password mistake is _____.
+→ Using same password everywhere.
+
+19. Host firewall filters _____.
+→ Incoming & outgoing network traffic.
+
+20. Software updates fix _____.
+→ Bugs & security vulnerabilities.
